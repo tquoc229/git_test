@@ -24,22 +24,5 @@ country_code,zone_name,zone_code,weight,approved,enabled
 113,Joliet,4411,5,1,0
 113,Eau Claire,3343,4,0,0
 113,Elmira,3507,7,1,1
-113,Clairton,6070,6,0,0
-113,Opelousas,0883,3,0,1
-113,Midwest City,9902,3,1,0
-113,Erie,8749,4,0,1
-113,Akron,9575,7,1,0
-113,San Dimas,5631,7,0,0
-113,Nampa,8150,10,0,1
-113,Palmdale,9709,7,1,1
-113,Cudahy,2510,2,1,0
-113,Kankakee,8534,4,0,0
-113,Laguna Niguel,3940,10,0,0
-113,Salt Lake City,6698,10,1,0
-113,Rome,7402,3,1,1
-113,Anderson,0645,1,0,1
-113,Gulfport,1128,8,1,1
-113,South Bend,4682,5,0,0
-113,Midland,9220,4,1,0
-113,Walnut,8792,9,0,1
+
 
