@@ -1,0 +1,45 @@
+country_code,zone_name,zone_code,weight,approved,enabled
+113,Jeffersonville,9447,9,0,0
+113,Quincy,7299,7,0,0
+113,Jeffersontown,1602,2,0,1
+113,El Monte,7881,8,0,1
+113,Calumet City,7695,4,0,0
+113,Sioux City,9503,7,1,0
+113,Sunnyvale,7839,6,0,1
+113,Weirton,0342,2,0,0
+113,Independence,3171,1,0,0
+113,Washington,8787,6,1,0
+113,Gilbert,2202,4,0,1
+113,Minneapolis,7721,1,0,1
+113,Kennesaw,1380,3,1,1
+113,Cheyenne,6160,5,1,0
+113,Frederiksted,5380,1,1,0
+113,Parker,6081,2,0,0
+113,Miami Gardens,6158,9,1,0
+113,Citrus Heights,4987,5,0,1
+113,El Cerrito,2849,6,1,1
+113,Pueblo,0796,4,0,0
+113,Barre,9691,1,1,1
+113,Kahului,1494,7,1,1
+113,Joliet,4411,5,1,0
+113,Eau Claire,3343,4,0,0
+113,Elmira,3507,7,1,1
+113,Clairton,6070,6,0,0
+113,Opelousas,0883,3,0,1
+113,Midwest City,9902,3,1,0
+113,Erie,8749,4,0,1
+113,Akron,9575,7,1,0
+113,San Dimas,5631,7,0,0
+113,Nampa,8150,10,0,1
+113,Palmdale,9709,7,1,1
+113,Cudahy,2510,2,1,0
+113,Kankakee,8534,4,0,0
+113,Laguna Niguel,3940,10,0,0
+113,Salt Lake City,6698,10,1,0
+113,Rome,7402,3,1,1
+113,Anderson,0645,1,0,1
+113,Gulfport,1128,8,1,1
+113,South Bend,4682,5,0,0
+113,Midland,9220,4,1,0
+113,Walnut,8792,9,0,1
+
